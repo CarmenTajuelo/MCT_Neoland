@@ -1,3 +1,6 @@
 [submodule "Javiribs"]
 	path = Javiribs
 	url = https://github.com/Javiribs/bootcamp_dev
+[submodule "Julen"]
+	path = Julen
+	url = https://github.com/Jotanore/NeolandBootcamp
